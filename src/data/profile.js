@@ -17,9 +17,9 @@ export const profile = {
   github: "https://github.com/bharathreddy20031910",
   resumes: {
     developer: "/Bharath-Simha-Reddy-Developer.pdf",
-    trainer: "/Bharath-Simha-Reddy-Trainer.pdf",
+    trainer: "/Bharath%20Simha%20Reddy%20Trainer.pdf",
     developerFilename: "Bharath-Simha-Reddy-Developer.pdf",
-    trainerFilename: "Bharath-Simha-Reddy-Trainer.pdf",
+    trainerFilename: "Bharath Simha Reddy Trainer.pdf",
   },
   logo: "/brand/ed-logo.png",
   photo: "/profile/bharath.jpg",
