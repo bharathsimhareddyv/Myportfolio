@@ -13,8 +13,8 @@ export const profile = {
   location: "Bengaluru, India",
   phone: "+91 6362568172",
   email: "bharathsimhareddyv19@gmail.com",
-  linkedin: "https://www.linkedin.com/in/bharath-reddy-881375342",
-  github: "https://github.com/bharathreddy20031910",
+  linkedin: "https://www.linkedin.com/in/bharathsimhareddyv/",
+  github: "https://github.com/bharathsimhareddyv19",
   resumes: {
     developer: "/Bharath-Simha-Reddy-Developer.pdf",
     trainer: "/Bharath%20Simha%20Reddy%20Trainer.pdf",

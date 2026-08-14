@@ -103,7 +103,7 @@ export function Contact() {
               <FaLinkedin className="text-[var(--color-brand)]" />
               <div>
                 <p className="text-xs uppercase tracking-wider text-[var(--text-muted)]">LinkedIn</p>
-                <p className="font-medium text-sm">linkedin.com/in/bharath-reddy-881375342</p>
+                <p className="font-medium text-sm">linkedin.com/in/bharathsimhareddyv</p>
               </div>
             </a>
             <a
@@ -115,7 +115,7 @@ export function Contact() {
               <FaGithub className="text-[var(--color-brand)]" />
               <div>
                 <p className="text-xs uppercase tracking-wider text-[var(--text-muted)]">GitHub</p>
-                <p className="font-medium text-sm">github.com/bharathreddy20031910</p>
+                <p className="font-medium text-sm">github.com/bharathsimhareddyv19</p>
               </div>
             </a>
             <div className="glass rounded-2xl p-5 flex items-center gap-4">
